@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "5ed42d8021add91088a706ce"
+  },
+  "issue_book_id": "i123",
+  "book_borrow_date": "1/2/2020",
+  "book_return_date": "6/2/2020",
+  "return_before_date": "",
+  "reader_id": "ra123",
+  "book_id": "b123"
+},{
+  "_id": {
+    "$oid": "5ed66c7ea8084a16c0981404"
+  },
+  "issue_book_id": "ia123",
+  "book_return_date": "6/2/2020",
+  "return_before_date": "",
+  "reader_id": "ra123",
+  "book_id": "ba123"
+},{
+  "_id": {
+    "$oid": "5ed66c9ba8084a16c0981405"
+  },
+  "issue_book_id": "ib123",
+  "book_borrow_date": "1/2/2020",
+  "book_return_date": "6/2/2020",
+  "return_before_date": "",
+  "reader_id": "ra123",
+  "book_id": "bb123"
+},{
+  "_id": {
+    "$oid": "5ed66cb6a8084a16c0981406"
+  },
+  "issue_book_id": "ic123",
+  "book_borrow_date": "1/2/2020",
+  "book_return_date": "6/2/2020",
+  "return_before_date": "",
+  "reader_id": "ra123",
+  "book_id": "bc123"
+},{
+  "_id": {
+    "$oid": "5ed66ccfa8084a16c0981407"
+  },
+  "issue_book_id": "id123",
+  "book_borrow_date": "1/2/2020",
+  "book_return_date": "6/2/2020",
+  "return_before_date": "",
+  "reader_id": "ra123",
+  "book_id": "bd123"
+}]

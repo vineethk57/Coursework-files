@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "5ed42f1621add91088a706d2"
+  },
+  "magazine_issue_id": "m123",
+  "magazine_return_date": "6/2/2020",
+  "magazine_borrow_date": "1/2/2020",
+  "magazine_id": "m123",
+  "reader_id": "r123",
+  "magazine_return_before_date": ""
+},{
+  "_id": {
+    "$oid": "5ed55abf21add91088a7070d"
+  },
+  "magazine_issue_id": "ma123",
+  "magazine_return_date": "6/2/2020",
+  "magazine_borrow_date": "1/2/2020",
+  "magazine_id": "",
+  "reader_id": "",
+  "magazine_return_before_date": ""
+}]

@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5ed4265521add91088a706c4"
+  },
+  "book_id": "b123",
+  "book_tittle": "think and grow rich",
+  "book_year": 1983,
+  "book_page_numbers": 580,
+  "available_copies": 4,
+  "total_copies": 5,
+  "pub_id": "p123",
+  "branch_id": "lib123"
+},{
+  "_id": {
+    "$oid": "5ed51b0921add91088a706fe"
+  },
+  "book_id": "ba123",
+  "book_tittle": "hc verma",
+  "book_year": 1973,
+  "book_page_numbers": 280,
+  "available_copies": 4,
+  "total_copies": 5,
+  "pub_id": "pa123",
+  "branch_id": "lib123"
+},{
+  "_id": {
+    "$oid": "5ed51b4021add91088a706ff"
+  },
+  "book_id": "bb123",
+  "book_tittle": "code concepts",
+  "book_year": 1993,
+  "book_page_numbers": 380,
+  "available_copies": 4,
+  "total_copies": 5,
+  "pub_id": "pb123",
+  "branch_id": "lib123"
+},{
+  "_id": {
+    "$oid": "5ed5565921add91088a70700"
+  },
+  "book_id": "bc123",
+  "book_tittle": "oops methodolgy",
+  "book_year": 2000,
+  "book_page_numbers": 180,
+  "available_copies": 4,
+  "total_copies": 5,
+  "pub_id": "pc123",
+  "branch_id": "lib123"
+},{
+  "_id": {
+    "$oid": "5ed5567a21add91088a70701"
+  },
+  "book_id": "bd123",
+  "book_tittle": "shivani",
+  "book_year": 1999,
+  "book_page_numbers": 50,
+  "available_copies": 4,
+  "total_copies": 5,
+  "pub_id": "pd123",
+  "branch_id": "lib123"
+}]

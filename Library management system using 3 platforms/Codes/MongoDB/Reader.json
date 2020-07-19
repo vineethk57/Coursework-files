@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "5ed430fb21add91088a706d8"
+  },
+  "reader_id": "r123",
+  "first_name_reader": "gurmeet singh",
+  "last_name_reader": "---",
+  "street": "sunnyside road",
+  "city": "poole",
+  "postcode": "bh122sb",
+  "book_borrow": 0,
+  "magazine_borrow": 1,
+  "ebook_borrow": 1,
+  "branch_id": "lib123",
+  "reader_registration_date": {
+    "$date": "2020-01-01T00:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ed55e2b21add91088a70713"
+  },
+  "reader_id": "ra123",
+  "first_name_reader": "vinay",
+  "last_name_reader": "singh",
+  "street": "xerbia road",
+  "city": "pune",
+  "postcode": "411057",
+  "book_borrow": 5,
+  "magazine_borrow": 0,
+  "ebook_borrow": 0,
+  "reader_registration_date": {
+    "$date": "2020-01-01T00:00:00Z"
+  }
+}]

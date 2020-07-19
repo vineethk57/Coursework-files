@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5ed4e48921add91088a706e7"
+  },
+  "ebook_genre": "life style",
+  "ebook_id": "e123"
+},{
+  "_id": {
+    "$oid": "5ed693caa8084a16c0981408"
+  },
+  "ebook_genre": "life style",
+  "ebook_id": "ea123"
+},{
+  "_id": {
+    "$oid": "5ed693dfa8084a16c0981409"
+  },
+  "ebook_genre": "life style",
+  "ebook_id": "eb123"
+}]

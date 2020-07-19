@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "5ed4e86221add91088a706f0"
+  },
+  "pub_id": "p123",
+  "pub_phone_number": "987654321"
+},{
+  "_id": {
+    "$oid": "5ed6affda8084a16c0981411"
+  },
+  "pub_id": "pa123",
+  "pub_phone_number": "887654321"
+},{
+  "_id": {
+    "$oid": "5ed6b00ba8084a16c0981412"
+  },
+  "pub_id": "pb123",
+  "pub_phone_number": "787654321"
+},{
+  "_id": {
+    "$oid": "5ed6b02da8084a16c0981413"
+  },
+  "pub_id": "pc123",
+  "pub_phone_number": "687654321"
+},{
+  "_id": {
+    "$oid": "5ed6b038a8084a16c0981414"
+  },
+  "pub_id": "pd123",
+  "pub_phone_number": "587654321"
+}]

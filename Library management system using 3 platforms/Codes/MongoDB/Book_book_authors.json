@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "5ed4e42a21add91088a706e5"
+  },
+  "book_author": "hc verma",
+  "book_id": "ba123"
+},{
+  "_id": {
+    "$oid": "5ed556b221add91088a70702"
+  },
+  "book_author": "adam smith",
+  "book_id": "b123"
+},{
+  "_id": {
+    "$oid": "5ed5571021add91088a70703"
+  },
+  "book_author": "neha bhagat",
+  "book_id": "bb123"
+},{
+  "_id": {
+    "$oid": "5ed5572821add91088a70704"
+  },
+  "book_author": "shivani sharma",
+  "book_id": "bd123"
+},{
+  "_id": {
+    "$oid": "5ed5573e21add91088a70705"
+  },
+  "book_author": "unkown",
+  "book_id": "bc123"
+}]

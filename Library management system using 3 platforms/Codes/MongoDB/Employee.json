@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5ed4e31721add91088a706e0"
+  },
+  "employee_id": "e123",
+  "first_name ": "manjeet singh",
+  "last_name": "---",
+  "position": "owner",
+  "branch_id": "lib123"
+},{
+  "_id": {
+    "$oid": "5ed5598221add91088a7070b"
+  },
+  "employee_id": "ea123",
+  "first_name ": "gurmeet singh",
+  "last_name": "---",
+  "position": "manager",
+  "branch_id": "lib123"
+}]

@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "5ed42c6021add91088a706c9"
+  },
+  "magazine_id": "m123",
+  "mag_tittle": "mabc",
+  "mag_issue_number": "000",
+  "total_copies": 5,
+  "available_copies": 4,
+  "pub_id": "p123",
+  "branch_id": "lib123"
+},{
+  "_id": {
+    "$oid": "5ed55bb721add91088a7070e"
+  },
+  "magazine_id": "ma123",
+  "mag_tittle": "mabcd",
+  "mag_issue_number": "000",
+  "total_copies": 5,
+  "available_copies": 5,
+  "pub_id": "p123",
+  "branch_id": "lib123"
+}]

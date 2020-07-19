@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "5ed4ed1821add91088a706f8"
+  },
+  "reader_id": "ra123",
+  "book_id": "b123",
+  "reservation_book_id": "rb123",
+  "book_number_in_queue": "0"
+},{
+  "_id": {
+    "$oid": "5ed6b184a8084a16c0981415"
+  },
+  "reader_id": "ra123",
+  "book_id": "ba123",
+  "reservation_book_id": "rb123",
+  "book_number_in_queue": "0"
+}]

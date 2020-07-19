@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "5ed4ea6e21add91088a706f6"
+  },
+  "pub_id": "p123",
+  "Pub_email": "pub1@xyz.com"
+},{
+  "_id": {
+    "$oid": "5ed6af51a8084a16c098140d"
+  },
+  "pub_id": "pa123",
+  "Pub_email": "pub2@xyz.com"
+},{
+  "_id": {
+    "$oid": "5ed6af83a8084a16c098140e"
+  },
+  "pub_id": "pb123",
+  "Pub_email": "pub3@xyz.com"
+},{
+  "_id": {
+    "$oid": "5ed6af91a8084a16c098140f"
+  },
+  "pub_id": "pc123",
+  "Pub_email": "pub4@xyz.com"
+},{
+  "_id": {
+    "$oid": "5ed6afa1a8084a16c0981410"
+  },
+  "pub_id": "pd123",
+  "Pub_email": "pub5@xyz.com"
+}]

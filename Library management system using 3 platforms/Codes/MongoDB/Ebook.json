@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "5ed4e4eb21add91088a706e9"
+  },
+  "ebook_id": "e123",
+  "ebook_tittle": "100 ways to grow rich",
+  "ebook_author": "kris sins",
+  "ebook_year": "2020",
+  "ebook_pages": "202",
+  "URL": "xyz.com",
+  "branch_id": "lib123"
+},{
+  "_id": {
+    "$oid": "5ed558a321add91088a70709"
+  },
+  "ebook_id": "ea123",
+  "ebook_tittle": "101 ways to grow rich",
+  "ebook_author": "brad pit",
+  "ebook_year": "1990",
+  "ebook_pages": "202",
+  "URL": "wxyz.com",
+  "branch_id": "lib123"
+},{
+  "_id": {
+    "$oid": "5ed558cd21add91088a7070a"
+  },
+  "ebook_id": "eb123",
+  "ebook_tittle": "102 ways to grow rich",
+  "ebook_author": "simon jones",
+  "ebook_year": "1998",
+  "URL": "vwxyz.com",
+  "branch_id": "lib123"
+}]

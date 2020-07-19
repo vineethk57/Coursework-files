@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "5ed4307021add91088a706d6"
+  },
+  "magazine_reservation_id": "m123a",
+  "magazine_number_in_queue": "0",
+  "reader_id": "r123",
+  "magazine_id": "m123"
+}]

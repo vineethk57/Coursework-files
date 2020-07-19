@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "5ed4e45521add91088a706e6"
+  },
+  "book_genre": "life style",
+  "book_id: ": "b123"
+},{
+  "_id": {
+    "$oid": "5ed5577621add91088a70706"
+  },
+  "book_genre": "academic"
+},{
+  "_id": {
+    "$oid": "5ed6cf7ca8084a16c0981416"
+  },
+  "book_genre": "academic",
+  "book_id: ": "bb123"
+},{
+  "_id": {
+    "$oid": "5ed6cf88a8084a16c0981417"
+  },
+  "book_genre": "academic",
+  "book_id: ": "bc123"
+},{
+  "_id": {
+    "$oid": "5ed6cf90a8084a16c0981418"
+  },
+  "book_genre": "academic",
+  "book_id: ": "bd123"
+}]
