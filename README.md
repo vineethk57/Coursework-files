@@ -27,5 +27,6 @@ https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data
 
 Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.
 
-Dataset can be used for Binary Classification sample problems
+Dataset can b<img width="887" alt="Screenshot 2022-05-02 at 12 29 41 pm" src="https://user-images.githubusercontent.com/30193984/166226962-78ccc970-5c5a-49fb-869f-0ffe62315627.png">
+e used for Binary Classification sample problems
 
